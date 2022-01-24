@@ -1,1 +1,1 @@
-worker: bash start.bat
+worker: node index.js
